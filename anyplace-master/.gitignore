@@ -73,3 +73,7 @@ $RECYCLE.BIN/
 # other files
 *.swp
 
+
+.env
+.env.*
+!*.env.example
